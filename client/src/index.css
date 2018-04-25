@@ -1,0 +1,15 @@
+body,
+html,
+h1 {
+  background: #eee;
+  font-family: "Gotham";
+  font-weight: 200;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+body {
+  padding: 1rem;
+}
